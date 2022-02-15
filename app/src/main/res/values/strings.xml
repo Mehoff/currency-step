@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <string name="btn_init">Init</string>
+</resources>
